@@ -6,7 +6,6 @@ import { useForm } from "react-hook-form";
 import { yupResolver } from '@hookform/resolvers/yup';
 import * as yup from "yup";
 import { addMember, updateMember } from "../../store/actions/MemberAction";
-import { getCities } from "../../store/actions/CityAction";
 import SelectInput from "./SelectInput";
 import Input from "./Input";
 import { useNavigate } from "react-router-dom";
