@@ -1,0 +1,27 @@
+.nav{
+    background-color:#ffffff;
+    text-align:center;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;  
+    height:5rem;
+ }
+
+ .link{
+    margin:auto;
+    font-size: xx-large;
+    font-weight: bolder;
+    color:#412e17;
+    text-decoration:none;
+    text-align: center;
+ }
+ a :hover{
+    text-decoration: underline;
+    text-decoration-color: #412e17;
+ }
+ a :active{
+     color:black;
+ }
+ a :visited{
+color:black;
+ }

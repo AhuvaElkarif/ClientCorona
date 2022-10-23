@@ -1,0 +1,10 @@
+body{
+  direction: rtl;
+  box-sizing: border-box;
+  /* text-align: center;  */
+  background-color: white;
+}
+hr{
+  color:#412e17;
+  font-weight: bolder;
+}
